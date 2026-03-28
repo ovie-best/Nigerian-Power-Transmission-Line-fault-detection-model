@@ -23,7 +23,7 @@
 
 ## Project Overview
 
-This project applies Machine Learning — specifically a **Random Forest Classifier** — to the problem of predictive maintenance on Nigerian 330kV power transmission lines. The system is trained to detect and classify six types of transmission line conditions (including three fault types and three normal operating states) using electrical measurements sampled at 15-minute intervals.
+This project applies Machine Learning, specifically a **Random Forest Classifier** to the problem of predictive maintenance on Nigerian 330kV power transmission lines. The system is trained to detect and classify six types of transmission line conditions (including three fault types and three normal operating states) using electrical measurements sampled at 15-minute intervals.
 
 The dataset is synthetically generated to simulate realistic Nigerian grid conditions, including environmental factors (temperature, humidity, wind speed), peak-load hours (06:00–09:00 and 18:00–21:00), and three fault types commonly observed on high-voltage transmission lines: Line-to-Ground (LG), Line-to-Line (LL), and Line-to-Line-to-Ground (LLG) faults.
 
@@ -310,11 +310,11 @@ pip freeze > requirements.txt
 
 ## Author
 
-**[OGHENEWEDE OVIE NATHANIEL]**  
+**OGHENEWEDE OVIE NATHANIEL**  
 Final Year Student — Electrical/Electromics Engineering  
-[University of Benin]  
-[ogheneovienathan@gmail.com]  
-[2025]
+University of Benin  
+ogheneovienathan@gmail.com  
+2025
 
 ---
 
